@@ -1,0 +1,102 @@
+{
+  "categories": [
+    {
+      "name": "Equipamentos Essenciais para Habitat de Exóticos",
+      "slug": "equipamentos-habitat-exoticos",
+      "description": "Descubra os melhores equipamentos para criar o habitat perfeito e seguro para seus pets exóticos. Encontre terrários, gaiolas e aquários de alta qualidade, além de guias completos para garantir o bem-estar e a longevidade de répteis, aves, anfíbios e outros animais incomuns. Sua busca pelo lar ideal para seu pet exótico começa aqui!",
+      "subcategories": [
+        {
+          "name": "Melhores Terrários para Répteis e Anfíbios",
+          "slug": "melhores-terrarios-repteis-anfibios",
+          "description": "Explore nossa seleção dos melhores terrários para répteis e anfíbios, projetados para replicar ambientes naturais e atender às necessidades específicas de cada espécie. Encontre opções com controle de temperatura, umidade e ventilação, garantindo um lar seguro e estimulante para seu dragão barbudo, gecko, cobra ou sapo exótico.",
+          "articles": []
+        },
+        {
+          "name": "Melhores Gaiolas para Aves Exóticas e Pequenos Mamíferos",
+          "slug": "melhores-gaiolas-aves-mamiferos-exoticos",
+          "description": "Garanta o conforto e a segurança de suas aves exóticas e pequenos mamíferos com as melhores gaiolas do mercado. Descubra modelos espaçosos, fáceis de limpar e com acessórios ideais para calopsitas, papagaios, furões, porquinhos-da-índia e outros pets exóticos, promovendo um ambiente enriquecedor e saudável.",
+          "articles": []
+        },
+        {
+          "name": "Melhores Aquários para Peixes e Invertebrados Exóticos",
+          "slug": "melhores-aquarios-peixes-invertebrados-exoticos",
+          "description": "Mergulhe no mundo dos melhores aquários para peixes e invertebrados exóticos. Encontre aquários de água doce e salgada, com sistemas de filtragem avançados, iluminação especializada e design que realça a beleza de seus peixes tropicais, camarões, caranguejos e outras criaturas aquáticas exóticas.",
+          "articles": []
+        },
+        {
+          "name": "Guias Completos e Kits Iniciais de Habitats Exóticos",
+          "slug": "guias-kits-iniciais-habitats-exoticos",
+          "description": "Para quem está começando ou busca otimizar, esta seção oferece guias completos e kits iniciais cuidadosamente selecionados para montar o habitat ideal para seu pet exótico. Aprenda sobre a escolha de substratos, decorações e a configuração inicial para garantir um ambiente perfeito desde o primeiro dia. Inclui recomendações para um setup completo e funcional.",
+          "articles": [
+            {
+              "title": "Guia Essencial: Os Melhores Equipamentos para Seus Pets Exóticos Viverem Plenamente!",
+              "slug": "primeiro-post"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Controle Ambiental para Pets Exóticos",
+      "slug": "controle-ambiental-pets-exoticos",
+      "description": "Domine o ambiente do seu pet exótico com os melhores equipamentos de controle ambiental. Encontre soluções de aquecimento, iluminação, umidificação e monitoramento para replicar as condições ideais do habitat natural, essenciais para a saúde e o comportamento de répteis, anfíbios e outras espécies sensíveis.",
+      "subcategories": [
+        {
+          "name": "Melhores Sistemas de Aquecimento para Exóticos",
+          "slug": "melhores-sistemas-aquecimento-exoticos",
+          "description": "Mantenha a temperatura perfeita com os melhores sistemas de aquecimento para pets exóticos. Descubra lâmpadas de calor, mantas térmicas, cabos aquecedores e termostatos inteligentes, garantindo zonas de aquecimento adequadas para a termorregulação de répteis, anfíbios e outros animais que necessitam de calor constante.",
+          "articles": []
+        },
+        {
+          "name": "Melhores Lâmpadas e Iluminação para Exóticos",
+          "slug": "melhores-lampadas-iluminacao-exoticos",
+          "description": "Ilumine o mundo do seu pet com as melhores lâmpadas e sistemas de iluminação para exóticos. Encontre lâmpadas UVB, UVA, noturnas e decorativas que simulam o ciclo dia/noite, promovem a síntese de vitamina D3 e realçam a beleza do habitat, essenciais para a saúde óssea e o bem-estar visual.",
+          "articles": []
+        },
+        {
+          "name": "Melhores Umidificadores e Nebulizadores para Exóticos",
+          "slug": "melhores-umidificadores-nebulizadores-exoticos",
+          "description": "Crie o clima ideal com os melhores umidificadores e nebulizadores para pets exóticos. Essenciais para espécies tropicais e subtropicais, esses equipamentos garantem os níveis de umidade corretos, prevenindo problemas respiratórios e auxiliando na ecdise (troca de pele) de répteis e anfíbios.",
+          "articles": []
+        },
+        {
+          "name": "Termômetros e Higrômetros Digitais para Exóticos",
+          "slug": "termometros-higrometros-digitais-exoticos",
+          "description": "Monitore com precisão o ambiente do seu pet exótico com os melhores termômetros e higrômetros digitais. Garanta leituras exatas de temperatura e umidade, cruciais para manter as condições ideais do habitat e prevenir estresse ou doenças em répteis, anfíbios e outros animais sensíveis.",
+          "articles": []
+        }
+      ]
+    },
+    {
+      "name": "Acessórios de Alimentação e Bem-Estar para Exóticos",
+      "slug": "acessorios-alimentacao-bem-estar-exoticos",
+      "description": "Otimize a rotina de alimentação e promova o bem-estar do seu pet exótico com os melhores acessórios. Encontre comedouros, bebedouros, brinquedos de enriquecimento, substratos seguros e ferramentas de limpeza que garantem uma vida saudável, estimulante e higiênica para seu companheiro incomum.",
+      "subcategories": [
+        {
+          "name": "Melhores Comedouros e Bebedouros para Exóticos",
+          "slug": "melhores-comedouros-bebedouros-exoticos",
+          "description": "Escolha os melhores comedouros e bebedouros para pets exóticos, projetados para segurança, higiene e facilidade de uso. Encontre opções anti-derramamento, de cerâmica, automáticos e específicos para diferentes dietas e espécies, garantindo que seu pet tenha acesso constante a água fresca e alimento de qualidade.",
+          "articles": []
+        },
+        {
+          "name": "Melhores Brinquedos e Enriquecimento para Exóticos",
+          "slug": "melhores-brinquedos-enriquecimento-exoticos",
+          "description": "Estimule a mente e o corpo do seu pet com os melhores brinquedos e acessórios de enriquecimento para exóticos. De quebra-cabeças alimentares a estruturas para escalar e esconderijos, promova comportamentos naturais, reduza o estresse e enriqueça o ambiente de répteis, aves e pequenos mamíferos.",
+          "articles": []
+        },
+        {
+          "name": "Melhores Substratos e Decorações para Habitats Exóticos",
+          "slug": "melhores-substratos-decoracoes-habitats-exoticos",
+          "description": "Crie um ambiente autêntico e seguro com os melhores substratos e decorações para habitats exóticos. Escolha entre opções que retêm umidade, facilitam a escavação ou são puramente estéticas, garantindo um espaço funcional, higiênico e visualmente atraente para seu pet exótico.",
+          "articles": []
+        },
+        {
+          "name": "Melhores Ferramentas de Limpeza e Manutenção para Exóticos",
+          "slug": "melhores-ferramentas-limpeza-manutencao-exoticos",
+          "description": "Mantenha o habitat do seu pet exótico impecável com as melhores ferramentas de limpeza e manutenção. Encontre pinças, raspadores, desinfetantes seguros e aspiradores específicos para terrários e aquários, garantindo um ambiente higiênico e livre de patógenos para a saúde do seu animal.",
+          "articles": []
+        }
+      ]
+    }
+  ]
+}
