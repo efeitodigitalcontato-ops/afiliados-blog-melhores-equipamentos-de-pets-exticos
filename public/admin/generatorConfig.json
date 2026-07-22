@@ -1,0 +1,31 @@
+{
+  "theme": "melhores equipamentos de pets exóticos",
+  "categories": [
+    {
+      "value": "melhores-equipamentos-de-pets-ex-ticos",
+      "label": "Melhores equipamentos de pets exóticos"
+    },
+    {
+      "value": "dicas",
+      "label": "Dicas de Melhores equipamentos de pets exóticos"
+    },
+    {
+      "value": "analises",
+      "label": "Análises e Guias"
+    }
+  ],
+  "images": [
+    {
+      "value": "/recommended-melhores-equipamentos-de-pets-ex-ticos-1.jpg",
+      "label": "Melhores equipamentos de pets exóticos Premium"
+    },
+    {
+      "value": "/recommended-melhores-equipamentos-de-pets-ex-ticos-2.jpg",
+      "label": "Melhores equipamentos de pets exóticos Custo-Benefício"
+    },
+    {
+      "value": "/recommended-melhores-equipamentos-de-pets-ex-ticos-3.jpg",
+      "label": "Melhores Melhores equipamentos de pets exóticos"
+    }
+  ]
+}
